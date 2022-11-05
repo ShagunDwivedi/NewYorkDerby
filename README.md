@@ -1,4 +1,4 @@
-### New York Derby Data Analysis
+# New York Derby Data Analysis
 
 Used PyData ecosystem:
 - pandas,
